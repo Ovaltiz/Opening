@@ -1,10 +1,22 @@
 {
   "closures": [
     {
-      "start": "2026-03-16",
-      "end": "2026-03-27
+      "start": "2026-04-14",
+      "end": "2026-04-17",
+      "scope": "fournil",
+      "label": "Conges de printemps"
+    },
+    {
+      "start": "2026-05-01",
+      "end": "2026-05-01",
       "scope": "market",
       "label": "Marche annule"
     },
+    {
+      "start": "2026-08-10",
+      "end": "2026-08-24",
+      "scope": "all",
+      "label": "Fermeture estivale"
+    }
   ]
 }
