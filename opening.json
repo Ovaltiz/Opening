@@ -1,12 +1,10 @@
 {
   "closures": [
-
     {
-      "start": "2026-03-16",
-      "end": "2026-03-27",
+      "start": "2026-05-01",
+      "end": "2026-05-01",
       "scope": "market",
       "label": "Marche annule"
-    },
-
+    }
   ]
 }
