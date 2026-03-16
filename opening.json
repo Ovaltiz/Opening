@@ -1,20 +1,20 @@
 {
   "closures": [
     {
-      "start": "2026-04-14",
-      "end": "2026-04-17",
+      "start": "2025-04-14",
+      "end": "2025-04-17",
       "scope": "fournil",
       "label": "Conges de printemps"
     },
     {
-      "start": "2026-05-01",
-      "end": "2026-05-01",
+      "start": "2025-05-01",
+      "end": "2025-05-01",
       "scope": "market",
-      "label": "Marché annule"
+      "label": "Marché annulé"
     },
     {
-      "start": "2026-08-10",
-      "end": "2026-08-24",
+      "start": "2025-08-10",
+      "end": "2025-08-24",
       "scope": "all",
       "label": ""
     }
