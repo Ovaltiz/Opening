@@ -1,6 +1,12 @@
 {
   "closures": [
     {
+      "start": "2026-05-19",
+      "end": "2026-05-20",
+      "scope": "all",
+      "label": ""
+    },
+    {
       "start": "2025-04-14",
       "end": "2025-04-17",
       "scope": "fournil",
