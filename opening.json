@@ -1,6 +1,12 @@
 {
   "closures": [
     {
+      "start": "2026-07-20",
+      "end": "2026-07-23",
+      "scope": "all",
+      "label": "Panne de four. Retour à la normal prévu dès la fin de semaine"
+    },
+    {
       "start": "2026-06-23",
       "end": "2026-06-24",
       "scope": "all",
