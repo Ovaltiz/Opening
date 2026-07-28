@@ -1,6 +1,12 @@
 {
   "closures": [
     {
+      "start": "2026-07-28",
+      "end": "2026-07-29",
+      "scope": "all",
+      "label": "Fermeture exceptionnelle pour raison de santé."
+    },
+    {
       "start": "2026-07-20",
       "end": "2026-07-23",
       "scope": "all",
