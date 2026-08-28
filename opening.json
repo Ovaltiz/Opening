@@ -1,6 +1,12 @@
 {
   "closures": [
     {
+      "start": "2026-09-14",
+      "end": "2026-09-20",
+      "scope": "all",
+      "label": "Congés"
+    },
+    {
       "start": "2026-07-28",
       "end": "2026-07-29",
       "scope": "all",
